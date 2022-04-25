@@ -1,5 +1,6 @@
 # DSA2102
 **Essential Data Analytics Tools: Numerical Computation**
+
 Some useful Python codes by me to visualize things in the module.
 
 ### [dsa2102](dsa2102/)
