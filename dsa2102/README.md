@@ -1,7 +1,7 @@
 ## The dsa2102 package
 
 Unofficial `dsa2102` package to handle things easier.
-The contents of this directory includes but not limited to:
+The contents of this directory include but not limited to:
 - `matMul`, matrix multiplication
 - `bisection`, bisection method
 - `fixedpt`, fixed point method
